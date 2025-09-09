@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+
+#app {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.el-container {
+    height: 100%;
+}
+
+.el-descriptions__label {
+    background-color: white !important;
+}
